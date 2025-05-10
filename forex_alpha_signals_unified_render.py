@@ -173,3 +173,4 @@ log_placeholder.text_area("Logs", "Aguardando logs...", height=300)
 # de forma persistente e desacoplada da interface do usuário.
 # Este exemplo é uma simplificação para ilustrar a estrutura básica.
 
+
